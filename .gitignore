@@ -1,6 +1,13 @@
+12_gan/StyleGAN_512x512_model/
+12_gan/BigGAN_pretrained_models/
+12_gan/__MACOSX/
+13_rnn/data/
 11_cnn_pytorch/cifar_net.pth
 *tar.gz
 *zip
 11_cnn_pytorch/mtfl
 *pkl
 11_cnn_pytorch/ARCdataset_png/*
+12_gan/CycleGAN_pretrained_model/*
+12_gan/data/*
+12_gan/apple2orange/*
