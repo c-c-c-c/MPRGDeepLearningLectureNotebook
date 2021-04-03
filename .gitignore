@@ -1,3 +1,4 @@
+*.pt
 12_gan/StyleGAN_512x512_model/
 12_gan/BigGAN_pretrained_models/
 12_gan/__MACOSX/
